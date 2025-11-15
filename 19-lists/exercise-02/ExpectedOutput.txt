@@ -1,0 +1,5 @@
+Liste après ajouts : [10, 20, 30, 40, 50]
+Premier élément : 10
+Dernier élément : 50
+Liste après suppressions : [20, 30, 40]
+

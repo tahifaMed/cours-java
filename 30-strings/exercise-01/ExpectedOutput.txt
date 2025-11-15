@@ -1,0 +1,7 @@
+Longueur du prénom : 4
+Longueur du nom : 6
+Premier caractère du prénom : J
+Premier caractère du nom : D
+Nom complet : Jean Dupont
+Longueur du nom complet : 11
+

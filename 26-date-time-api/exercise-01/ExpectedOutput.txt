@@ -1,0 +1,8 @@
+Date actuelle : 2024-01-15
+Date spécifique : 2024-12-25
+Année : 2024, Mois : DECEMBER, Jour : 25
+Date + 10 jours : 2025-01-04
+Date + 2 mois : 2025-02-25
+Date - 1 an : 2023-12-25
+2024-12-25 est après 2024-01-15 : true
+

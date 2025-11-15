@@ -1,0 +1,5 @@
+Groupement par âge : {25=[Alice], 30=[Bob, Diana], 28=[Charlie]}
+Partition >= 30 : {false=[Alice, Charlie], true=[Bob, Diana]}
+Noms joints : Alice-Bob-Charlie-Diana
+Map nom-âge : {Alice=25, Bob=30, Charlie=28, Diana=30}
+

@@ -1,0 +1,8 @@
+User bob created successfully
+✅ Email sent to bob@example.com
+✅ Logged: User bob registered
+✅ Analytics: User registered
+
+Product iPhone sold
+✅ Email sent to customer@example.com
+✅ Analytics: Product sold

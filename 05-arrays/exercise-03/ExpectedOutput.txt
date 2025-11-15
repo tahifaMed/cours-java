@@ -1,0 +1,6 @@
+Parcours avec for classique :
+10 20 30 40 50
+Parcours avec for-each :
+10 20 30 40 50
+Somme des éléments : 150
+Maximum : 50

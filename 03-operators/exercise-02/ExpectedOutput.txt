@@ -1,0 +1,6 @@
+x initial : 10
+Après += 5 : 15
+Après -= 3 : 12
+Après *= 2 : 24
+Après /= 4 : 6
+Après %= 3 : 0

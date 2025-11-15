@@ -1,0 +1,9 @@
+Connexion ouverte
+Exécution de la requête SQL
+Connexion fermée automatiquement
+---
+Connexion ouverte
+Tentative d'utilisation après fermeture...
+Erreur : La connexion est fermée
+Connexion fermée automatiquement
+

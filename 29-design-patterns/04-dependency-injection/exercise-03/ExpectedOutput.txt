@@ -1,0 +1,3 @@
+[LOG] Traitement de la commande ORD-123
+Email envoyé à customer@example.com: Votre commande ORD-123 a été traitée
+[LOG] Commande ORD-123 traitée avec succès

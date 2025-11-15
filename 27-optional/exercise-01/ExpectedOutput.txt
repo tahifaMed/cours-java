@@ -1,0 +1,6 @@
+Optional avec valeur : true
+Optional vide : false
+Valeur : Valeur
+Valeur par défaut (orElse) : Par défaut
+Valeur par défaut (orElseGet) : Valeur par défaut
+

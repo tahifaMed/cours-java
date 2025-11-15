@@ -1,0 +1,13 @@
+Factory MySQL créée
+Connexion MySQL créée
+Connexion établie à MySQL
+
+Factory PostgreSQL créée
+Connexion PostgreSQL créée
+Connexion établie à PostgreSQL
+
+Test de connexion MySQL:
+Connexion établie à MySQL
+
+Test de connexion PostgreSQL:
+Connexion établie à PostgreSQL

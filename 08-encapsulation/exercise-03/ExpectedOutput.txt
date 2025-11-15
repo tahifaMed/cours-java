@@ -1,0 +1,5 @@
+Solde initial : 1000.0
+Après dépôt de 500.0 : 1500.0
+Retrait réussi
+Solde final : 1200.0
+Retrait de 2000.0 échoué : Solde insuffisant

@@ -1,0 +1,3 @@
+Rectangle créé : largeur=5.0, hauteur=3.0
+Aire du rectangle : 15.0
+Nouvelle taille : largeur=8.0, hauteur=6.0

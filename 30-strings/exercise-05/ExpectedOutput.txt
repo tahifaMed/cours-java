@@ -1,0 +1,8 @@
+Après append('Hello') : Hello
+Après append(' World') : Hello World
+Après insert(5, ',') : Hello, World
+Après replace(0, 5, 'Hi') : Hi, World
+Après delete(2, 3) : Hi World
+Longueur : 8
+String finale : Hi World
+

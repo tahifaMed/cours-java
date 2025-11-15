@@ -1,0 +1,15 @@
+Boucle avec break (s'arrête à 5) :
+0
+1
+2
+3
+4
+5
+Boucle avec continue (affiche seulement les pairs) :
+0
+2
+4
+6
+8
+10
+Recherche terminée : nombre 7 trouvé à l'index 7

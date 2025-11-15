@@ -1,0 +1,6 @@
+Animaux dans la liste :
+Chien aboie
+Chat miaule
+Peut ajouter un Chien à la liste
+Liste après ajout : [Chien aboie, Nouveau chien]
+

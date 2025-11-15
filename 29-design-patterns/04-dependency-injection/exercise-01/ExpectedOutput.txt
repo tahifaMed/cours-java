@@ -1,0 +1,5 @@
+📧 Email: Bienvenue dans notre application
+
+📱 SMS: Code de vérification: 123456
+
+🔔 Push: Nouveau message reçu

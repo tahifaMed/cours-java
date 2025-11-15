@@ -1,0 +1,6 @@
+4 est pair : true
+5 est pair : false
+Carré de 5 : 25
+Carré de 10 : 100
+Message affiché : Bonjour Lambda
+

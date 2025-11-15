@@ -1,0 +1,6 @@
+Date formatée (dd/MM/yyyy) : 25/12/2024
+Date formatée (yyyy-MM-dd) : 2024-12-25
+Date formatée (dd MMM yyyy) : 25 déc. 2024
+Date parsée : 2024-12-25
+Format ISO : 2024-12-25
+

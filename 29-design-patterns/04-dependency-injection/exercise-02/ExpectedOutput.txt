@@ -1,0 +1,3 @@
+[FILE] Création d'utilisateur: Alice
+
+[CONSOLE] Création d'utilisateur: Bob

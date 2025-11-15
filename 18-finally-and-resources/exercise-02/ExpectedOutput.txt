@@ -1,0 +1,9 @@
+Ressource créée
+Utilisation de la ressource
+Ressource fermée automatiquement
+---
+Ressource créée
+Utilisation de la ressource
+Exception dans le bloc try
+Ressource fermée automatiquement (même avec exception)
+

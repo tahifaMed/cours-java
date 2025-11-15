@@ -1,0 +1,5 @@
+Thread-0: Instance créée: cours.java.designpatterns.singleton.ConfigCache@hashcode1
+Thread-1: Instance utilisée: cours.java.designpatterns.singleton.ConfigCache@hashcode1
+Thread-2: Instance utilisée: cours.java.designpatterns.singleton.ConfigCache@hashcode1
+Configuration récupérée - app.name: Mon Application
+Configuration vérifiée - contains 'database.url': true

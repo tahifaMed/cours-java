@@ -1,0 +1,4 @@
+Nom de l'application : Mon Application
+Valeur de PI : 3.14159
+Taille maximale : 100
+Aire d'un cercle de rayon 5 : 78.53975

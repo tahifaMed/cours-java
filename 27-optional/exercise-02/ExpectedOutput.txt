@@ -1,0 +1,6 @@
+Longueur : 5
+Nombre doublé : 20
+Nom en majuscules : JAVA
+Nombre filtré (pair) : Optional[10]
+Nombre filtré (impair) : Optional.empty
+

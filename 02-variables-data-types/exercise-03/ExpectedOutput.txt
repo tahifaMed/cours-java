@@ -1,0 +1,6 @@
+Nom complet : Jean Dupont
+Longueur : 11
+En majuscules : JEAN DUPONT
+En minuscules : jean dupont
+Sous-chaîne (0-4) : Jean
+Caractère à l'index 5 : D

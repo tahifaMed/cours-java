@@ -1,0 +1,3 @@
+Nom : Rex
+Âge : 3
+Rex aboie : Woof !

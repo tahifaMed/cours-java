@@ -1,0 +1,4 @@
+Le canard vole
+Le canard nage
+L'humain nage
+L'humain court

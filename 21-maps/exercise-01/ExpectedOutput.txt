@@ -1,0 +1,11 @@
+Taille de la map : 4
+Âge d'Alice : 25
+La map contient la clé 'Bob' : true
+La map contient la valeur 28 : true
+Parcours de la map :
+Charlie : 28
+Alice : 25
+Diana : 22
+Bob : 30
+Taille après suppression : 3
+

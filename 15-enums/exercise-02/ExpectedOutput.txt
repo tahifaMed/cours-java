@@ -1,0 +1,5 @@
+Status : EN_ATTENTE - En attente de traitement
+Status : EN_COURS - En cours de préparation
+Status : EXPEDIEE - Expédiée
+Status : LIVREE - Livrée
+

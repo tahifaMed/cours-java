@@ -1,0 +1,5 @@
+Somme : 55
+Produit : 3628800
+Maximum : 10
+Concaténation : JavaPythonC++JavaScript
+

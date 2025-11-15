@@ -1,0 +1,4 @@
+Contenu de boiteString : Bonjour
+Contenu de boiteInt : 42
+Contenu de boiteDouble : 3.14
+

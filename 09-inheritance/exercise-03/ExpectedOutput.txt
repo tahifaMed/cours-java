@@ -1,0 +1,5 @@
+La voiture électrique démarre silencieusement
+Marque : Tesla
+Nombre de portes : 4
+Autonomie : 500 km
+Chargement de la batterie...

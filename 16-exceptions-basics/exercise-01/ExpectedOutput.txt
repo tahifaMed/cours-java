@@ -1,0 +1,4 @@
+Erreur : Division par zéro impossible
+Erreur : La chaîne est nulle
+Programme terminé
+

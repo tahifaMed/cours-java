@@ -1,0 +1,11 @@
+Traitement CSV:
+Chargement du fichier: ...
+Parsing CSV: Name,Age Alice,30 Bob,25
+Validation CSV réussie
+Sauvegarde du résultat CSV
+
+Traitement JSON:
+Chargement du fichier: ...
+Parsing JSON: {"name":"Alice","age":30}
+Validation JSON réussie
+Sauvegarde du résultat JSON

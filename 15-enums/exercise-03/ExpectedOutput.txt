@@ -1,0 +1,7 @@
+Priorités sélectionnées : [MOYENNE, HAUTE]
+Tâches par priorité :
+BASSE : Faire les courses
+MOYENNE : Répondre aux emails
+HAUTE : Corriger les bugs
+URGENTE : Réunion d'urgence
+

@@ -1,0 +1,13 @@
+Voiture créée: cours.java.designpatterns.factory.Voiture@hashcode
+La voiture démarre
+La voiture s'arrête
+
+Moto créée: cours.java.designpatterns.factory.Moto@hashcode
+La moto démarre
+La moto s'arrête
+
+Camion créé: cours.java.designpatterns.factory.Camion@hashcode
+Le camion démarre
+Le camion s'arrête
+
+Exception: Type de véhicule inconnu: avion

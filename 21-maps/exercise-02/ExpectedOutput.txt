@@ -1,0 +1,13 @@
+TreeMap (clés triées) :
+Allemagne -> Berlin
+Espagne -> Madrid
+France -> Paris
+Italie -> Rome
+Première clé : Allemagne
+Dernière clé : Italie
+HashMap (ordre non garanti) :
+France -> Paris
+Espagne -> Madrid
+Allemagne -> Berlin
+Italie -> Rome
+

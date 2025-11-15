@@ -1,0 +1,8 @@
+Début du bloc try
+Exception capturée : / par zéro
+Bloc finally exécuté
+---
+Début du bloc try
+Calcul réussi : 5
+Bloc finally exécuté
+

@@ -1,0 +1,10 @@
+Taille de la liste : 4
+Élément à l'index 0 : Alice
+La liste contient 'Charlie' : true
+Parcours de la liste :
+Alice
+Bob
+Charlie
+Diana
+Taille après suppression : 3
+

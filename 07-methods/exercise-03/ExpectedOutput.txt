@@ -1,0 +1,5 @@
+Somme : 6
+Somme : 100
+Message 1 : Un
+Message 2 : Deux
+Message 3 : Trois

@@ -1,0 +1,3 @@
+Le nombre 10 est positif
+Vous êtes majeur
+Bien !

@@ -1,0 +1,12 @@
+=== RAPPORT HTML ===
+<html><head><title>Rapport</title></head>
+<body>
+<h1>Données importantes</h1>
+</body></html>
+
+=== RAPPORT PDF ===
+PDF Document
+=============
+Données importantes
+=============
+End of PDF

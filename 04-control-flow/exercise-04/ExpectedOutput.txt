@@ -1,0 +1,18 @@
+Boucle while (0 à 4) :
+0
+1
+2
+3
+4
+Puissances de 2 jusqu'à 1000 :
+1
+2
+4
+8
+16
+32
+64
+128
+256
+512
+Do-while s'exécute au moins une fois : 10

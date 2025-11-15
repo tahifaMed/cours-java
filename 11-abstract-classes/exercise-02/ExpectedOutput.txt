@@ -1,0 +1,2 @@
+Cercle - Aire : 78.53981633974483, Périmètre : 31.41592653589793
+Rectangle - Aire : 20.0, Périmètre : 18.0

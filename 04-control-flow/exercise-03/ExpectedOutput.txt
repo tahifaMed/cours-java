@@ -1,0 +1,25 @@
+Boucle de 0 à 4 :
+0
+1
+2
+3
+4
+Boucle par pas de 2 (0 à 10) :
+0
+2
+4
+6
+8
+10
+Boucle décroissante (10 à 1) :
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Somme de 1 à 10 : 55

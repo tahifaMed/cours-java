@@ -1,0 +1,9 @@
+Dépôt: 500.0€ - Solde: 500.0€
+
+Solde actuel: 500.0€
+
+Retrait de 100.0€ refusé (permissions insuffisantes)
+Dépôt: 200.0€ - Solde: 700.0€
+
+Retrait: 100.0€ - Solde: 600.0€
+Dépôt: 50.0€ - Solde: 650.0€

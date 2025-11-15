@@ -1,0 +1,4 @@
+Classe annotée avec @Info
+Méthode annotée avec @Info
+Annotation créée et utilisée avec succès
+

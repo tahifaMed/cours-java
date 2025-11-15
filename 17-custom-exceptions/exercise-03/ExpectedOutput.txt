@@ -1,0 +1,4 @@
+Email valide : contact@example.com envoyé
+Erreur : EmailInvalideException - Format d'email invalide : email-invalide
+Email valide : admin@site.fr envoyé
+

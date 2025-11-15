@@ -1,0 +1,4 @@
+Méthode redéfinie avec @Override
+Méthode dépréciée appelée
+Variable non utilisée (avertissement supprimé)
+

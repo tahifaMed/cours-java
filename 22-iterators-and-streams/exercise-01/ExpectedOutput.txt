@@ -1,0 +1,6 @@
+Élément : A
+Élément : B
+Élément : C
+Élément : D
+Éléments restants : [A, C, D]
+

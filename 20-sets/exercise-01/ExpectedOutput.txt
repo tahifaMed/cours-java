@@ -1,0 +1,11 @@
+Taille après ajouts : 4
+Le set contient 'Java' : true
+Tentative d'ajout de 'Java' (déjà présent) : false
+Taille finale : 4
+Éléments du set :
+Python
+Java
+C++
+JavaScript
+Taille après suppression : 3
+

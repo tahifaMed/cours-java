@@ -1,0 +1,4 @@
+Index hors limites du tableau
+Exception générale : / par zéro
+Programme terminé avec gestion d'exceptions
+

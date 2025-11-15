@@ -1,0 +1,4 @@
+Bonjour !
+Bonjour Alice !
+5 au carré = 25
+Moyenne de 10.5 et 20.3 = 15.4

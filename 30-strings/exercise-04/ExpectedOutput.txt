@@ -1,0 +1,9 @@
+Original : '  Bonjour le monde  '
+Après trim() : 'Bonjour le monde'
+En majuscules : BONJOUR LE MONDE
+En minuscules : bonjour le monde
+Après replace('a', 'A') : JAvA est un lAngAge de progrAmmAtion
+Après replace('langage', 'language') : Java est un language de programmation
+Après replace('Java', 'Python') : Python est un langage de programmation
+Résultat final : Hello   Java
+

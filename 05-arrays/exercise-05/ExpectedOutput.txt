@@ -1,0 +1,6 @@
+Tableau original : [50, 20, 40, 10, 30]
+Tableau trié : [10, 20, 30, 40, 50]
+Index de 30 dans le tableau trié : 2
+Tableau rempli : [100, 100, 100, 100, 100]
+Copie du tableau : [10, 20, 30, 40, 50]
+Les tableaux sont égaux : true

@@ -1,0 +1,13 @@
+Création du proxy pour: photo1.jpg
+Création du proxy pour: photo2.jpg
+
+Affichage de photo1.jpg...
+Chargement de photo1.jpg depuis le disque
+Affichage: photo1.jpg
+
+Affichage de photo2.jpg...
+Chargement de photo2.jpg depuis le disque
+Affichage: photo2.jpg
+
+Affichage de photo1.jpg...
+Affichage: photo1.jpg

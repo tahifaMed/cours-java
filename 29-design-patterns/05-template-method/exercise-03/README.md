@@ -1,0 +1,22 @@
+# Exercice 3 : Template Method - Système de Jeu
+
+## Objectif
+
+Développer un système de jeu utilisant Template Method pour définir le cycle de vie.
+
+## Résultat Attendu
+
+```
+=== JEU D'ÉCHECS ===
+Initialisation: Échiquier préparé
+Début: Les blancs jouent en premier
+Fin: Échec et mat!
+Encore une partie? Non
+
+=== MONOPOLY ===
+Initialisation: Plateau et argent distribués
+Début: Premier joueur lance les dés
+Fin: Un joueur fait faillite
+Encore une partie? Oui
+```
+

@@ -1,0 +1,6 @@
+Tableau après échange : [B, A, C]
+Maximum entre 10 et 20 : 20
+Maximum entre 'a' et 'z' : z
+Tableau : [1, 2, 3]
+Tableau : [X, Y, Z]
+

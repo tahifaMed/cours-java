@@ -1,0 +1,3 @@
+Nombres pairs multipliés par 2 : [4, 8, 12, 16, 20]
+Nombres > 5 convertis en String : [6, 7, 8, 9, 10]
+

@@ -1,0 +1,4 @@
+Âge valide : 25
+Erreur : AgeInvalideException - Âge invalide : -5 (doit être entre 0 et 150)
+Erreur : AgeInvalideException - Âge invalide : 200 (doit être entre 0 et 150)
+

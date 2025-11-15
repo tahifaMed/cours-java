@@ -1,0 +1,3 @@
+Je suis un animal générique
+Je suis un chien, je m'appelle Rex
+Je suis un chat, je m'appelle Minou

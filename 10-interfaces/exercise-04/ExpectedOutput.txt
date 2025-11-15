@@ -1,0 +1,2 @@
+Aire du cercle : 28.274333882308138
+Taille maximale autorisée : 100

@@ -1,0 +1,15 @@
+Parcours d'une liste :
+1
+2
+3
+4
+5
+Parcours d'un set :
+Java
+Python
+C++
+Parcours d'un tableau :
+10
+20
+30
+

@@ -1,0 +1,6 @@
+Nom : Jean
+Âge : 20
+Tentative d'âge invalide : 150
+Âge invalide
+Âge reste : 20
+Moyenne : 15.0

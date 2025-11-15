@@ -1,0 +1,2 @@
+Somme : 15
+Chaîne en majuscules : BONJOUR

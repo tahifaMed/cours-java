@@ -1,0 +1,13 @@
+Calcul de fibonacci(10)...
+Résultat: 55
+
+Calcul de fibonacci(10)...
+Depuis le cache: 10 = 55
+Résultat: 55
+
+Calcul de fibonacci(15)...
+Résultat: 610
+
+Calcul de fibonacci(10)...
+Depuis le cache: 10 = 55
+Résultat: 55

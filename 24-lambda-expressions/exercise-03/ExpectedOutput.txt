@@ -1,0 +1,7 @@
+Nombre parsé : 42
+Longueur de 'Java' : 4
+Longueur de 'Python' : 6
+En majuscules : JAVA
+Nouvelle liste créée
+Message affiché
+

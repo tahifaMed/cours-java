@@ -1,0 +1,4 @@
+Livre "Java pour débutants" écrit par Auteur: Martin Dupont
+Livre numérique "Java avancé" écrit par Auteur: Sophie Martin
+Bibliothèque contient 2 livre(s)
+

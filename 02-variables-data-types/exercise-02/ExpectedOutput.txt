@@ -1,0 +1,7 @@
+Double : 3.14
+Double vers Int : 3
+Int : 100
+Int vers Long : 100
+Char : A
+Code ASCII de A : 65
+Int 65 vers Char : A

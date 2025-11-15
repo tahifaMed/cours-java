@@ -1,0 +1,4 @@
+Avant modification : nombre = 5
+Après modifierPrimitif : nombre = 5
+Avant modification : arr[0] = 1
+Après modifierObjet : arr[0] = 100

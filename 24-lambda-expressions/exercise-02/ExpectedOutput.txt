@@ -1,0 +1,7 @@
+La chaîne est vide : false
+La chaîne est vide : true
+Double de 5 : 10
+Double de 20 : 40
+CHAÎNE EN MAJUSCULES
+Message du supplier : Hello World
+
