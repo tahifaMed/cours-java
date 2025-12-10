@@ -62,6 +62,9 @@ Ce cours est organisé en **38 sujets** regroupés par niveau et domaine, couvra
 - **37-regular-expressions** - Expressions régulières
 - **38-javadoc** - JavaDoc et documentation
 
+### Projet Pratique
+- **39-kata-library-management** - Kata complet : Système de gestion de bibliothèque (intègre tous les concepts du cours)
+
 ## Comment Utiliser Ce Cours
 
 1. **Parcours séquentiel recommandé** : Suivez les sujets dans l'ordre, chaque sujet s'appuie sur les précédents.
