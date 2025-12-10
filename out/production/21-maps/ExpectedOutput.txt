@@ -1,0 +1,10 @@
+Parcours avec entrySet() :
+Alice : 85
+Bob : 90
+Charlie : 75
+Clés : [Alice, Bob, Charlie]
+Valeurs : [85, 90, 75]
+Score de Bob après remplacement : 95
+Score de Diana (nouveau) : 80
+Score de Eve (par défaut) : 0
+

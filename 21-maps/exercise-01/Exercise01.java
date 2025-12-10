@@ -1,16 +1,19 @@
+import java.util.HashMap;
+import java.util.Map;
+
 public class Exercise01 {
     public static void main(String[] args) {
         // TODO : Créer un HashMap pour stocker des noms et âges
-        // TODO : Map<String, Integer> ages = new HashMap<>();
+        Map<String, Lieu> ages = new HashMap<>();
         
         // TODO : Ajouter des paires clé-valeur
-        // TODO : ages.put("Alice", 25);
-        // TODO : ages.put("Bob", 30);
-        // TODO : ages.put("Charlie", 28);
-        // TODO : ages.put("Diana", 22);
-        
+        ages.put("Fes", new Lieu("Fes",3000,2000000L));
+        ages.put("Rabat", new Lieu("Rabat",4000,3000000L));
+        ages.put("Casa", new Lieu("Casa",2000,10000000L));
+
+        System.out.println(ages.get("Fes"));
         // TODO : Afficher la taille
-        // TODO : System.out.println("Taille de la map : " + ages.size());
+        System.out.println("Taille de la map : " + ages.size());
         
         // TODO : Récupérer une valeur
         // TODO : System.out.println("Âge d'Alice : " + ages.get("Alice"));

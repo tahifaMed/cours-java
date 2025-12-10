@@ -1,0 +1,4 @@
+Somme : 8
+Produit : 10.0
+7 est pair ? false
+Message : Bonjour !

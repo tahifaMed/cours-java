@@ -1,0 +1,6 @@
+ArrayList - Élément à l'index 2 : Charlie
+LinkedList - Élément à l'index 2 : Charlie
+ArrayList après insertion : [Alice, Bob, Xavier, Charlie, Diana]
+LinkedList après insertion : [Alice, Bob, Xavier, Charlie, Diana]
+Les deux listes contiennent les mêmes éléments
+

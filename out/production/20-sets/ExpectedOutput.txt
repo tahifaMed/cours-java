@@ -1,0 +1,6 @@
+Set A : [1, 2, 3, 4]
+Set B : [3, 4, 5, 6]
+Union (A ∪ B) : [1, 2, 3, 4, 5, 6]
+Intersection (A ∩ B) : [3, 4]
+Différence (A - B) : [1, 2]
+

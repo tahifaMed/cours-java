@@ -1,20 +1,28 @@
+import java.util.HashSet;
+import java.util.LinkedHashSet;
+import java.util.Set;
+
 public class Exercise01 {
     public static void main(String[] args) {
         // TODO : Créer un HashSet de String
-        // TODO : Set<String> set = new HashSet<>();
+        Set<String> set = new LinkedHashSet<String>();
         
         // TODO : Ajouter des éléments
-        // TODO : set.add("Java");
-        // TODO : set.add("Python");
-        // TODO : set.add("C++");
-        // TODO : set.add("JavaScript");
-        // TODO : set.add("Java");  // Doublon - sera ignoré
+        set.add("Java");
+        set.add("Python");
+        set.add("C++");
+        set.add("JavaScript");
+        set.add("Java");  // Doublon - sera ignoré
         
         // TODO : Afficher la taille
-        // TODO : System.out.println("Taille après ajouts : " + set.size());
-        
+        System.out.println("Taille après ajouts : " + set.size());
+
+        for (String element : set) {
+             System.out.println(element);
+         }
+
         // TODO : Vérifier si un élément existe
-        // TODO : System.out.println("Le set contient 'Java' : " + set.contains("Java"));
+        System.out.println("Le set contient 'Java' : " + set.contains("Java"));
         
         // TODO : Tenter d'ajouter un élément existant (retourne false)
         // TODO : boolean ajoutReussi = set.add("Java");
@@ -28,8 +36,10 @@ public class Exercise01 {
         // TODO : }
         
         // TODO : Supprimer un élément
-        // TODO : set.remove("Python");
-        // TODO : System.out.println("Taille après suppression : " + set.size());
+        set.remove("Python");
+
+
+        System.out.println("Taille après suppression : " + set.size());
         
     }
 }

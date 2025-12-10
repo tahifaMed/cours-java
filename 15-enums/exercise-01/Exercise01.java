@@ -14,5 +14,15 @@ public class Exercise01 {
         // TODO : }
         
     }
+
+    public enum Source {
+        CASS_OPENDATA("Cour de Cassation de l'openData"),
+        LEGI_CETAT("Cour des comptes pour les sénats");
+
+        private String descripton;
+        private Source(String descripton) {
+            this.descripton = descripton;
+        }
+    }
 }
 

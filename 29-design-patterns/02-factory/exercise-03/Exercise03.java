@@ -3,32 +3,32 @@ package cours.java.designpatterns.factory;
 public class Exercise03 {
     public static void main(String[] args) {
         // Créer la factory de cartes de crédit
-        PaymentFactory creditCardFactory = PaymentProvider.creerFactory("credit");
-        System.out.println("Factory pour Carte de Crédit créée");
-        
-        // Créer et utiliser un paiement par carte de crédit
-        PaymentMethod creditCardPayment = creditCardFactory.creerPaymentMethod();
-        System.out.println("Paiement par Carte de Crédit créé");
-        creditCardPayment.payer(100.0);
-        System.out.println();
-        
-        // Créer la factory PayPal
-        PaymentFactory paypalFactory = PaymentProvider.creerFactory("paypal");
-        System.out.println("Factory pour PayPal créée");
-        
-        // Créer et utiliser un paiement PayPal
-        PaymentMethod paypalPayment = paypalFactory.creerPaymentMethod();
-        System.out.println("Paiement par PayPal créé");
-        paypalPayment.payer(150.0);
-        System.out.println();
-        
-        // Tester les paiements via les factories
-        System.out.println("Test de paiement Carte de Crédit:");
-        creditCardFactory.testerPayment();
-        System.out.println();
-        
-        System.out.println("Test de paiement PayPal:");
-        paypalFactory.testerPayment();
+//        PaymentFactory creditCardFactory = PaymentProvider.creerFactory("credit");
+//        System.out.println("Factory pour Carte de Crédit créée");
+//
+//        // Créer et utiliser un paiement par carte de crédit
+//        PaymentMethod creditCardPayment = creditCardFactory.creerPaymentMethod();
+//        System.out.println("Paiement par Carte de Crédit créé");
+//        creditCardPayment.payer(100.0);
+//        System.out.println();
+//
+//        // Créer la factory PayPal
+//        PaymentFactory paypalFactory = PaymentProvider.creerFactory("paypal");
+//        System.out.println("Factory pour PayPal créée");
+//
+//        // Créer et utiliser un paiement PayPal
+//        PaymentMethod paypalPayment = paypalFactory.creerPaymentMethod();
+//        System.out.println("Paiement par PayPal créé");
+//        paypalPayment.payer(150.0);
+//        System.out.println();
+//
+//        // Tester les paiements via les factories
+//        System.out.println("Test de paiement Carte de Crédit:");
+//        creditCardFactory.testerPayment();
+//        System.out.println();
+//
+//        System.out.println("Test de paiement PayPal:");
+//        paypalFactory.testerPayment();
     }
 }
 

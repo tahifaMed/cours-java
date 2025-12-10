@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Exercise01 {
     public static void main(String[] args) {
         int a = 10;
@@ -22,6 +24,17 @@ public class Exercise01 {
         
         // TODO : Calculer et afficher le modulo (reste de la division) de a par c
         // Format : "10 % 3 = 1"
-        
+
+        int age = 10;
+        String ternaire = "";
+        if(age>=10){
+            ternaire = "supérieur";
+        }
+        else {
+            ternaire = "inférieur";
+        }
+         ternaire = age >= 10 ? "supérieur":
+                 age == 9 ? "majeur": "mineur";
+        System.out.println("age = "+ ternaire);
     }
 }

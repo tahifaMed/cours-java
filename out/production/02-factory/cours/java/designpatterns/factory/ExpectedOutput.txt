@@ -1,0 +1,13 @@
+Factory pour Carte de Crédit créée
+Paiement par Carte de Crédit créé
+Carte de Crédit: Paiement de 100.0€ effectué
+
+Factory pour PayPal créée
+Paiement par PayPal créé
+PayPal: Paiement de 150.0€ effectué
+
+Test de paiement Carte de Crédit:
+Carte de Crédit: Paiement de 99.99€ effectué
+
+Test de paiement PayPal:
+PayPal: Paiement de 99.99€ effectué

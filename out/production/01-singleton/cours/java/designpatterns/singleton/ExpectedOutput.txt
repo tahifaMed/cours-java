@@ -1,0 +1,19 @@
+Pool initialisé avec 3 connexions max
+
+Acquisition: CONN-1
+Acquisition: CONN-2
+Acquisition: CONN-3
+
+Tentative d'acquisition lorsque le pool est plein...
+Échec: Pool plein!
+
+Libération: CONN-1
+Acquisition: CONN-4
+
+État du pool: Disponibles: 0, En utilisation: 3
+
+Libération: CONN-2
+Libération: CONN-3
+Libération: CONN-4
+
+État du pool: Disponibles: 3, En utilisation: 0

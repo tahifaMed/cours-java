@@ -1,0 +1,5 @@
+Nom trouvé : Alice
+Nom par défaut : Inconnu
+Le nom existe et sa longueur est : 5
+Aucun nom trouvé
+

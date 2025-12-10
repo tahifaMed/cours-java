@@ -8,22 +8,22 @@ public class Exercise02 {
         // Créer plusieurs threads pour tester le thread-safety
         Thread[] threads = new Thread[3];
         
-        for (int i = 0; i < 3; i++) {
-            final int threadId = i;
-            threads[i] = new Thread(() -> {
-                ConfigCache cache = ConfigCache.getInstance();
-                if (threadId == 0) {
-                    System.out.println("Thread-0: Instance créée: " + cache);
-                    cache.put("database.url", "jdbc:mysql://localhost:3306/app");
-                } else if (threadId == 1) {
-                    System.out.println("Thread-1: Instance utilisée: " + cache);
-                    cache.put("app.name", "Mon Application");
-                } else {
-                    System.out.println("Thread-2: Instance utilisée: " + cache);
-                    cache.put("app.version", "1.0.0");
-                }
-            });
-        }
+//        for (int i = 0; i < 3; i++) {
+//            final int threadId = i;
+//            threads[i] = new Thread(() -> {
+//                ConfigCache cache = ConfigCache.getInstance();
+//                if (threadId == 0) {
+//                    System.out.println("Thread-0: Instance créée: " + cache);
+//                    cache.put("database.url", "jdbc:mysql://localhost:3306/app");
+//                } else if (threadId == 1) {
+//                    System.out.println("Thread-1: Instance utilisée: " + cache);
+//                    cache.put("app.name", "Mon Application");
+//                } else {
+//                    System.out.println("Thread-2: Instance utilisée: " + cache);
+//                    cache.put("app.version", "1.0.0");
+//                }
+//            });
+//        }
         
         // Démarrer tous les threads
         for (Thread thread : threads) {
@@ -36,9 +36,9 @@ public class Exercise02 {
         }
         
         // Vérifier le cache
-        ConfigCache cache = ConfigCache.getInstance();
-        System.out.println("Configuration récupérée - app.name: " + cache.get("app.name"));
-        System.out.println("Configuration vérifiée - contains 'database.url': " + cache.contains("database.url"));
+//        ConfigCache cache = ConfigCache.getInstance();
+//        System.out.println("Configuration récupérée - app.name: " + cache.get("app.name"));
+//        System.out.println("Configuration vérifiée - contains 'database.url': " + cache.contains("database.url"));
     }
 }
 
@@ -52,7 +52,7 @@ public class Exercise02 {
 // 7. Implémenter contains(String key)
 
 class ConfigCache {
-    private final Map<String, String> cache;
+//    private final Map<String, String> cache;
     
     // TODO: Ajouter votre code ici
 }

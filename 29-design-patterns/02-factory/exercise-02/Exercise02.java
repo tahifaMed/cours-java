@@ -3,32 +3,32 @@ package cours.java.designpatterns.factory;
 public class Exercise02 {
     public static void main(String[] args) {
         // Créer une factory MySQL
-        DatabaseFactory mysqlFactory = new MySqlFactory();
-        System.out.println("Factory MySQL créée");
-        
-        // Créer et utiliser une connexion MySQL
-        DatabaseConnection mysqlConn = mysqlFactory.creerConnexion();
-        System.out.println("Connexion MySQL créée");
-        mysqlConn.connecter();
-        System.out.println();
-        
-        // Créer une factory PostgreSQL
-        DatabaseFactory pgFactory = new PostgreSqlFactory();
-        System.out.println("Factory PostgreSQL créée");
-        
-        // Créer et utiliser une connexion PostgreSQL
-        DatabaseConnection pgConn = pgFactory.creerConnexion();
-        System.out.println("Connexion PostgreSQL créée");
-        pgConn.connecter();
-        System.out.println();
+//        DatabaseFactory mysqlFactory = new MySqlFactory();
+//        System.out.println("Factory MySQL créée");
+//
+//        // Créer et utiliser une connexion MySQL
+//        DatabaseConnection mysqlConn = mysqlFactory.creerConnexion();
+//        System.out.println("Connexion MySQL créée");
+//        mysqlConn.connecter();
+//        System.out.println();
+//
+//        // Créer une factory PostgreSQL
+//        DatabaseFactory pgFactory = new PostgreSqlFactory();
+//        System.out.println("Factory PostgreSQL créée");
+//
+//        // Créer et utiliser une connexion PostgreSQL
+//        DatabaseConnection pgConn = pgFactory.creerConnexion();
+//        System.out.println("Connexion PostgreSQL créée");
+//        pgConn.connecter();
+//        System.out.println();
         
         // Tester les connexions via les factories
         System.out.println("Test de connexion MySQL:");
-        mysqlFactory.testerConnexion();
-        System.out.println();
-        
-        System.out.println("Test de connexion PostgreSQL:");
-        pgFactory.testerConnexion();
+//        mysqlFactory.testerConnexion();
+//        System.out.println();
+//
+//        System.out.println("Test de connexion PostgreSQL:");
+//        pgFactory.testerConnexion();
     }
 }
 

@@ -8,8 +8,9 @@ public abstract class Forme {
     public void setCouleur(String couleur) {
         this.couleur = couleur;
     }
-    
+
     public abstract double calculerAire();
-    
     public abstract double calculerPerimetre();
+
+    public abstract String volant();
 }

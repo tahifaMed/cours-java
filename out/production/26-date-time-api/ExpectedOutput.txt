@@ -1,0 +1,6 @@
+Période entre les dates : P1Y2M10D
+Années : 1, Mois : 2, Jours : 10
+Durée entre les heures : PT5H30M
+Heures : 5, Minutes : 30
+Durée en minutes : 330
+

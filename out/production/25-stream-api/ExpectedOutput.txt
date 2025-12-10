@@ -1,0 +1,5 @@
+Stream séquentiel : false
+Stream parallèle : true
+Traitement séquentiel terminé
+Traitement parallèle terminé
+

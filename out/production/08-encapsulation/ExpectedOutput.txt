@@ -1,0 +1,4 @@
+Variable publique : 10
+Variable protégée : 20
+Variable package : 30
+Variable privée (via getter) : 40

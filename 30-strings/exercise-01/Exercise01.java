@@ -26,7 +26,18 @@ public class Exercise01 {
         
         // TODO : Affichez la longueur de la String complète
         // Format : "Longueur du nom complet : X"
-        
+
+        String s1 = "Hello";
+        String s2 = "HELLO";
+        System.out.println(s1 == s2);
+        System.out.println(s1.equals(s2));
+        s1 = s1.toUpperCase();
+        System.out.println(s1);
+        System.out.println(s1 == s2);
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("Hello").append("World").toString().toLowerCase();
+        System.out.println(sb.toString());
     }
 }
 

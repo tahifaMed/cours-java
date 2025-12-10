@@ -8,7 +8,31 @@ public class Etudiant {
         setAge(age);  // Utiliser le setter pour la validation
         this.moyenne = 0.0;
     }
-    
+
+    public String getNom() {
+        return nom;
+    }
+
+    public void setNom(String nom) {
+        this.nom = nom;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public double getMoyenne() {
+        return moyenne;
+    }
+
+    public void setMoyenne(double moyenne) {
+        this.moyenne = moyenne;
+    }
+
     // TODO : Créer un getter public String getNom()
     
     // TODO : Créer un getter public int getAge()

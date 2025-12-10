@@ -1,28 +1,47 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
+
 public class Exercise01 {
     public static void main(String[] args) {
         // TODO : Créer une ArrayList
-        // TODO : List<String> liste = new ArrayList<>();
-        // TODO : liste.add("A");
-        // TODO : liste.add("B");
-        // TODO : liste.add("C");
-        // TODO : liste.add("D");
+        List<String> liste = new ArrayList<>();
+        liste.add("A");
+        liste.add("B");
+        liste.add("C");
+        liste.add("D");
+
+        Set<String> set = liste.stream()
+                .filter(s ->  !s.equals("A"))
+                .map(s -> s.toLowerCase())
+                .collect(Collectors.toSet());
+
+        System.out.println(set);
+
+//        for(String s : liste){
+//            if(s.equals("A")){
+//                liste.remove(s);
+//            }
+//        }
         
         // TODO : Obtenir un Iterator
-        // TODO : Iterator<String> it = liste.iterator();
+        Iterator<String> it = liste.iterator();
         
         // TODO : Parcourir avec Iterator
-        // TODO : while (it.hasNext()) {
-        // TODO :     String element = it.next();
-        // TODO :     System.out.println("Élément : " + element);
+        while (it.hasNext()) {
+        String element = it.next();
+        System.out.println("Élément : " + element);
         // TODO :     
         // TODO :     // Supprimer "B" pendant le parcours
-        // TODO :     if (element.equals("B")) {
-        // TODO :         it.remove();
-        // TODO :     }
-        // TODO : }
+             if (element.equals("B")) {
+                 it.remove();
+             }
+         }
         
         // TODO : Afficher les éléments restants
-        // TODO : System.out.println("Éléments restants : " + liste);
+        System.out.println("Éléments restants : " + liste);
         
     }
 }

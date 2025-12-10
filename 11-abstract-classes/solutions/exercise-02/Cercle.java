@@ -6,12 +6,11 @@ public class Cercle extends Forme {
         this.rayon = rayon;
     }
     
-    @Override
+
     public double calculerAire() {
         return Math.PI * rayon * rayon;
     }
-    
-    @Override
+
     public double calculerPerimetre() {
         return 2 * Math.PI * rayon;
     }

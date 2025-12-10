@@ -1,0 +1,4 @@
+Exception capturée : Division par zéro
+Type d'exception : class java.lang.ArithmeticException
+Hiérarchie : Throwable -> Exception -> RuntimeException -> ArithmeticException
+

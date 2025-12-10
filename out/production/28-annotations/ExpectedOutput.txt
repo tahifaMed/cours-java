@@ -1,0 +1,4 @@
+Annotation présente : true
+Description : Cette classe fait quelque chose d'utile
+Classe traitée avec succès via réflexion
+

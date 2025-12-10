@@ -1,7 +1,11 @@
 // TODO : Faire hériter Cercle de Forme
 public class Cercle extends Forme {
     private double rayon;
-    
+
+    public Cercle(String couleur) {
+        super(couleur);
+    }
+
     // TODO : Créer un constructeur Cercle(String couleur, double rayon)
     // TODO : Utiliser super(couleur) pour appeler le constructeur du parent
     
